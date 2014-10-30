@@ -1,0 +1,15 @@
+{
+    "name": "greylabel/chute-sdk-v2-php",
+    "description": "PHP SDK for Chute REST API v2",
+    "license": "GPL-2.0",
+    "require": {
+        "guzzle/guzzle": ">=v3.0"
+    },
+    "authors": [
+        {
+            "name": "Grant Gaudet",
+            "email": "grant@greylabel.net",
+            "homepage": "http://greylabel.net/"
+        }
+    ]
+}
