@@ -6,6 +6,7 @@
         "guzzle/guzzle": ">=v3.0",
         "commerceguys/guzzle-oauth2-plugin": "dev-master"
     },
+    "minimum-stability" : "dev",
     "authors": [
         {
             "name": "Grant Gaudet",
