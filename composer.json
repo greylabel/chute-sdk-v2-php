@@ -3,7 +3,8 @@
     "description": "PHP SDK for Chute REST API v2",
     "license": "GPL-2.0",
     "require": {
-        "guzzle/guzzle": ">=v3.0"
+        "guzzle/guzzle": ">=v3.0",
+        "commerceguys/guzzle-oauth2-plugin": "dev-master"
     },
     "authors": [
         {

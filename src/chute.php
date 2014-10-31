@@ -1,6 +1,7 @@
 <?php
 
-use \Guzzle\Service\Client;
+use Guzzle\Http\Client;
+use CommerceGuys\Guzzle\Plugin\Oauth2\Oauth2Plugin;
 
 namespace Chute;
 
